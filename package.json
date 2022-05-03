@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-structure",
+  "author": "Md. Tahmidullah (Tahmid)",
+  "keywords": [
+    "nodejs structure",
+    "nodejs project structure"
+  ],
+  "description": "A simple nodejs project structure",
+  "version": "1.0.0",
+  "main": "config/app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oreefy/nodejs-structure.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oreefy/nodejs-structure/issues"
+  },
+  "homepage": "https://github.com/oreefy/nodejs-structure#readme",
+  "license": "ISC"
+}
